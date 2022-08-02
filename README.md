@@ -1,5 +1,5 @@
 # Airline-Customer-Satisfaction
-This an analysis to predict customer satisfaction based on factors like Gender, Customer Type, Age, Type of travel, Class, Flight distance, Cleanliness, Departure and Arrival Delay, etc 
+This a project to predict customer satisfaction based on factors like Gender, Customer Type, Age, Type of travel, Class, Flight distance, Cleanliness, Departure and Arrival Delay, etc 
 # Acheivements
 * Through exploratory analysis i was able to gain the following insights on the customers:
   * 81.7% of customers are loyal while 18.3% are not
