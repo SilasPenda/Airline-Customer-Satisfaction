@@ -13,4 +13,4 @@ This a supervised machine learning project to predict customer satisfaction base
   * 60.4% of satisfied customers were Females
   * 65.1% of customers Female customers are satisfied with the airline's services while 34.9% are not
   * 56.0% of customers Male customers are satisfied with the airline's services while 44.0% are not
-* I split the dataset into test and train datasets and trained the LogisticRegression model using the train dataset and tested using the test dataset and acheived a 83.0% accuracy 
+* I split the dataset into test and train datasets and trained the LogisticRegression model using the train dataset and tested using the test dataset and achieved a 83.0% accuracy 
